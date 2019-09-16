@@ -2,4 +2,4 @@
 
 Purpose: Extracting annotations from webanno zipped file into separate unzipped xml format
 
-Credits to: Tao Wang
+Contribution from: Tao Wang
